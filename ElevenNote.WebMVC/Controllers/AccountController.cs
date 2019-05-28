@@ -15,7 +15,7 @@ namespace ElevenNote.WebMVC.Controllers
 {
 
 #if !DEBUG
-     [RequireHttps]
+    [RequireHttps]
 
 #endif
     [Authorize]
